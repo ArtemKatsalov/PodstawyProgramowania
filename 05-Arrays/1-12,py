@@ -1,0 +1,15 @@
+categories = ["Food", "Transport", "Rent", "Entertainment"]
+expenses = [500, 150, 1000, 200]
+
+# Find the maximum expense value
+max_expense = max(expenses)
+
+# Find the index of the maximum expense
+max_index = expenses.index(max_expense)
+
+# Get the category corresponding to the maximum expense
+most_expensive_category = categories[max_index]
+
+# Print the results
+print("The most expensive category is:", most_expensive_category)
+print("Amount spent:", max_expense)
