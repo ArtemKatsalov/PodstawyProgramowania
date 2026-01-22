@@ -1,0 +1,18 @@
+{
+    "favourite_movie": {
+        "title": "Inception",
+        "year": 2010,
+        "director": "Christopher Nolan",
+        "genre": [
+            "Sci-Fi",
+            "Action",
+            "Thriller"
+        ],
+        "rating": 9.4,
+        "main_actors": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ]
+    }
+}
